@@ -18,7 +18,6 @@ ransomware-network-detection-demo/
 │   ├── clean_traffic.pcapng
 ├── pcap_descriptions.md
 ├── README.md
-├── LICENSE (opcional)
 ```
 
 ## 💡 Cómo usarlo
